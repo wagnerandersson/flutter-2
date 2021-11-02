@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037729691812",
+    "project_id": "garagem-4039e",
+    "storage_bucket": "garagem-4039e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037729691812:android:ee2eea11dddb0514890e31",
+        "android_client_info": {
+          "package_name": "com.example.garagem_avenida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037729691812-pvcr9u9f57tomrgv2vhipnevfu0oqe3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTdK1hPBuf8DUFMXrPgulFzZTl55Sa7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037729691812-pvcr9u9f57tomrgv2vhipnevfu0oqe3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
